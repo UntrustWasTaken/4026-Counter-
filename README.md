@@ -5,11 +5,18 @@ This project allows users to manually or automatically keep a tally of events, e
 
 # ====Specifications====
 Low power(?)
+
 Compact - 
+
 # ====Applications====
 Tally keeping
+
 Logic signal analysis
+
 Output device
+
 All - In - One Display with driver
+
 Administration
+
 Sports
