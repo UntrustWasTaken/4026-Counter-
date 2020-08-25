@@ -25,11 +25,17 @@ Administration
 Sports
 
 # ====Versions====
-V1.0   - First model                                                            
+V1.0   - First model       
+
 V1.0.1 - Variation of V1.0.1 with certain parts swapped with more common ones
+
 V2.0   - Added indicator LED for Clock signal
+
 
 # ====Releases====
 V1.0   - UNRELEASED
+
 V1.0.1 - UNRELEASED
+
 V2.0   - UNRELEASED
+
