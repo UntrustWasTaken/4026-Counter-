@@ -27,6 +27,8 @@ V1.0   - First model
 
 V2.0   - Added indicator LED for Clock signal
 
+# ====FAQ====
+Q: Will more versions be released? A: Yes, We are constantly trying to develop our designs to bring you the best possible product!
 
 # ====Releases====
 V1.0   - UNRELEASED
